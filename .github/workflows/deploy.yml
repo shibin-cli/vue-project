@@ -17,7 +17,7 @@ jobs:
           script: |
               cd /root/tmp
               rm -rf /root/tmp/vue-project
-              git clone 
+              git clone https://github.com/shibin-cli/vue-project.git
               cd /root/tmp/vue-project
               chmod +x ./deploy.sh
               ./deploy.sh
