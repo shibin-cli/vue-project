@@ -1,3 +1,3 @@
-module.exports={
-    base:'/vue-project'
+module.exports = {
+    base: '/vue-project'
 }
